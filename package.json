@@ -1,0 +1,15 @@
+{
+  "name": "blinds_project",
+  "version": "1.0.0",
+  "description": "using emails to trigger the blinds",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "akhilesh",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mailparser": "^3.7.1"
+  }
+}

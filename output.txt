@@ -1,0 +1,189 @@
+opening blinds
+closing blinds
+92
+last email:open blinds
+opening blinds
+18:43:10.551991
+no new emails, last email: open blinds
+18:43:16.760617
+no new emails, last email: open blinds
+18:43:22.982959
+no new emails, last email: open blinds
+18:43:29.282985
+no new emails, last email: open blinds
+18:43:35.570229
+no new emails, last email: open blinds
+18:43:41.871252
+no new emails, last email: open blinds
+18:43:48.275143
+no new emails, last email: open blinds
+18:43:54.470300
+new email: open blinds
+opening blinds
+18:44:00.694952
+no new emails, last email: open blinds
+18:44:06.986419
+new email: open blinds
+opening blinds
+18:44:13.313938
+no new emails, last email: open blinds
+18:44:19.519683
+no new emails, last email: open blinds
+18:44:25.782072
+no new emails, last email: open blinds
+18:44:32.078857
+no new emails, last email: open blinds
+18:44:38.349447
+new email: open blinds
+opening blinds
+18:44:44.644239
+no new emails, last email: open blinds
+18:44:50.940378
+no new emails, last email: open blinds
+18:44:57.120511
+no new emails, last email: open blinds
+18:45:03.296772
+no new emails, last email: open blinds
+18:45:09.601929
+no new emails, last email: open blinds
+18:45:16.347530
+no new emails, last email: open blinds
+18:45:22.630214
+no new emails, last email: open blinds
+18:45:28.774089
+no new emails, last email: open blinds
+18:45:35.016909
+no new emails, last email: open blinds
+18:45:41.199489
+no new emails, last email: open blinds
+18:45:47.477597
+no new emails, last email: open blinds
+18:45:53.727785
+no new emails, last email: open blinds
+18:45:59.890218
+no new emails, last email: open blinds
+18:46:06.175929
+no new emails, last email: open blinds
+18:46:12.432002
+no new emails, last email: open blinds
+18:46:18.704150
+no new emails, last email: open blinds
+18:46:24.983204
+no new emails, last email: open blinds
+18:46:31.273078
+no new emails, last email: open blinds
+18:46:37.525819
+no new emails, last email: open blinds
+18:46:43.822356
+no new emails, last email: open blinds
+18:46:50.089342
+no new emails, last email: open blinds
+18:46:56.361319
+no new emails, last email: open blinds
+18:47:02.592950
+no new emails, last email: open blinds
+18:47:08.782844
+no new emails, last email: open blinds
+18:47:15.180945
+no new emails, last email: open blinds
+18:47:21.445069
+no new emails, last email: open blinds
+18:47:27.703224
+no new emails, last email: open blinds
+18:47:33.929079
+no new emails, last email: open blinds
+18:47:40.146651
+no new emails, last email: open blinds
+18:47:46.414062
+no new emails, last email: open blinds
+18:47:52.633251
+no new emails, last email: open blinds
+18:47:58.991324
+no new emails, last email: open blinds
+18:48:05.164623
+no new emails, last email: open blinds
+18:48:11.457346
+no new emails, last email: open blinds
+18:48:17.898600
+no new emails, last email: open blinds
+18:48:24.181045
+no new emails, last email: open blinds
+18:48:30.461064
+no new emails, last email: open blinds
+18:48:36.689024
+no new emails, last email: open blinds
+18:48:42.918485
+no new emails, last email: open blinds
+18:48:49.251884
+no new emails, last email: open blinds
+18:48:55.806705
+no new emails, last email: open blinds
+18:49:02.118567
+no new emails, last email: open blinds
+18:49:08.241379
+no new emails, last email: open blinds
+18:49:14.500508
+no new emails, last email: open blinds
+18:49:20.870701
+no new emails, last email: open blinds
+18:49:27.078812
+no new emails, last email: open blinds
+18:49:33.407847
+no new emails, last email: open blinds
+18:49:39.667231
+no new emails, last email: open blinds
+18:49:46.565697
+no new emails, last email: open blinds
+18:49:52.896001
+no new emails, last email: open blinds
+18:49:59.255097
+no new emails, last email: open blinds
+18:50:05.564240
+no new emails, last email: open blinds
+18:50:11.926244
+no new emails, last email: open blinds
+18:50:18.170786
+no new emails, last email: open blinds
+18:50:24.396215
+no new emails, last email: open blinds
+18:50:30.673724
+no new emails, last email: open blinds
+18:50:36.970832
+no new emails, last email: open blinds
+18:50:43.162524
+no new emails, last email: open blinds
+18:50:49.388388
+no new emails, last email: open blinds
+18:50:55.698987
+no new emails, last email: open blinds
+18:51:01.907975
+no new emails, last email: open blinds
+18:51:08.117589
+no new emails, last email: open blinds
+18:51:14.326320
+no new emails, last email: open blinds
+18:51:20.612653
+no new emails, last email: open blinds
+18:51:26.924719
+no new emails, last email: open blinds
+18:51:33.172252
+no new emails, last email: open blinds
+18:51:39.495253
+no new emails, last email: open blinds
+18:51:45.839967
+no new emails, last email: open blinds
+18:51:52.134359
+no new emails, last email: open blinds
+18:51:58.349059
+no new emails, last email: open blinds
+18:52:04.539514
+no new emails, last email: open blinds
+18:52:10.826744
+no new emails, last email: open blinds
+18:52:17.069861
+no new emails, last email: open blinds
+18:52:23.282988
+no new emails, last email: open blinds
+18:52:29.514371
+no new emails, last email: open blinds
+18:52:35.713867

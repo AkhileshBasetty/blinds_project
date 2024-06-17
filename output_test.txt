@@ -1,0 +1,50 @@
+hello wrold 
+2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wrold2 hello wroldopening blinds
+closing blinds
+Unexpected err=TypeError("unsupported operand type(s) for +: 'int' and 'str'"), type(err)=<class 'TypeError'>
+opening blinds
+closing blinds
+Unexpected err=TypeError("unsupported operand type(s) for +: 'int' and 'str'"), type(err)=<class 'TypeError'>
+opening blinds
+closing blinds
+Unexpected err=TypeError('write() argument must be str, not int'), type(err)=<class 'TypeError'>
+opening blinds
+closing blinds
+90
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:29:30.461279
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:29:31.691796
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:29:32.846796
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:29:33.931949
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:29:35.159639
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:29:36.245309
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:29:37.321304
+opening blinds
+closing blinds
+90
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given'), type(err)=<class 'TypeError'>
+18:30:03.889604
+no new emails, last email: close blinds
+opening blinds
+closing blinds
+90
+Unexpected err=TypeError('output() takes 1 positional argument but 2 were given')
+18:30:48.532082
+no new emails, last email: close blinds
+18:30:54.730876
+no new emails, last email: close blinds
+opening blinds
+closing blinds
+90
+last email:close blinds
+closing blinds
+18:31:44.172077
+no new emails, last email: close blinds
+18:31:50.475230
+no new emails, last email: close blinds
